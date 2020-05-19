@@ -19,6 +19,6 @@ DATASET FOLDER STRUCTURE
   
   CSV File containing paths to the MR images and their respective class labels
   
-  There are 846 records and four classes in this dataset
+  There are 828 records and four classes in this dataset
   
   
