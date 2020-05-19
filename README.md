@@ -2,15 +2,19 @@
 
 DATASET FOLDER STRUCTURE
 
-adni_smri
-  Subject1
-    *.nii
-  Subject2
-    *.nii
-  .
-  .
-  .
-  .
+ adni_smri
+
+    Subject1
+     *.nii
+  
+    Subject2
+     *.nii
+ 
+ .
+ 
+ .
+ 
+ .
   
   
   CSV File containing paths to the MR images and their respective class labels
